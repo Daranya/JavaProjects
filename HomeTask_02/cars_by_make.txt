@@ -1,0 +1,2 @@
+Car [ID=1, Make=Toyota, Model=Camry, Year=2015, Color=White, Price=15000.0, Registration Number=ABC123]
+Car [ID=4, Make=Toyota, Model=Corolla, Year=2008, Color=Blue, Price=9000.0, Registration Number=GHI234]

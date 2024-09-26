@@ -1,0 +1,1 @@
+Car [ID=2, Make=Honda, Model=Civic, Year=2010, Color=Black, Price=12000.0, Registration Number=XYZ789]
