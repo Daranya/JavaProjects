@@ -1,0 +1,77 @@
+# HomeTask_01 Outputs
+
+1. Problem 01: Calculate and print the volumes of the Earth and Sun, and their volume ratio.
+
+The volume of the Earth is 229847296117.04 cubic miles.
+The volume of the Sun is 338880785199312100.00 cubic miles.
+The ratio of the volume of the Sun to the volume of the Earth is 1474373.60.
+
+
+2. Problem 02: Identify and print all prime numbers up to a given value.
+
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+
+
+3. Problem 03: Count and print the number of vowels, consonants, and spaces in a text.
+
+The text contained vowels: 60
+consonants: 93
+spaces: 37
+
+
+4. Problem 04: Extract, sort, and print words from a text in alphabetical order.
+
+Sorted words:
+'tis
+a
+against
+and
+and
+arms
+arrows
+be
+be
+by
+end
+fortune
+in
+is
+mind
+nobler
+not
+of
+of
+opposing
+or
+or
+outrageous
+question
+sea
+slings
+suffer
+take
+that
+the
+the
+the
+them
+To
+to
+to
+to
+troubles
+Whether
