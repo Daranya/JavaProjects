@@ -1,0 +1,16 @@
+Vehicle Characteristics
+=======================
+ICEV Characteristics:
+Car [ID=1, Make=Toyota, Model=Corolla, Year=2020, Color=White, Price=20000.0, Registration Number=ABC123]
+Engine Type: Combustion Engine
+Manufacture: Toyota (Japan)
+
+BEV Characteristics:
+Car [ID=2, Make=Tesla, Model=Model S, Year=2021, Color=Red, Price=80000.0, Registration Number=DEF456]
+Engine Type: Electric Engine
+Manufacture: Tesla (USA)
+
+HybridV Characteristics:
+Car [ID=3, Make=Ford, Model=Fusion Hybrid, Year=2019, Color=Blue, Price=30000.0, Registration Number=GHI789]
+Engine Type: Hybrid Engine
+Manufacture: Ford (USA)
